@@ -1,0 +1,14 @@
+[
+    {
+        "email": "customer1@mail.com",
+        "password": "abcdef",
+        "phoneNumber": "0808451244",
+        "address": "Pagedangan"
+    }, 
+    {
+        "email": "customer2@mail.com",
+        "password": "123456",
+        "phoneNumber": "459745689",
+        "address": "Curug"
+    }
+  ]

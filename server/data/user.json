@@ -1,0 +1,17 @@
+[
+    {
+        "email": "admin@mail.com",
+        "password": "abcdef",
+        "role": "Admin",
+        "phoneNumber": "0808451244",
+        "address": "Pagedangan"
+    }, 
+    {
+        "email": "staff@mail.com",
+        "password": "123456",
+        "role": "Staff",
+        "phoneNumber": "459745689",
+        "address": "Curug"
+    }
+  ]
+  

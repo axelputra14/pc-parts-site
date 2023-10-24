@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Dark Power 13 1000W",
+    "description": "Dark Power 13 is the most progressive power supply series be quiet! has ever built. An unrivaled efficiency of up to 95.8% earns the PSU its 80 PLUS Titanium certification. This makes the Dark Power 13 series a paragon of efficiency.",
+    "price": 289,
+    "stock": 36,
+    "imgUrl": "https://www.bequiet.com/admin/ImageServer.php?ID=88e39a44933@be-quiet.net&omitPreview=true&width=600",
+    "categoryId": 1,
+    "authorId": 1,
+    "status": "Active"
+  }, 
+  {
+    "name": "Straight Power 12 850W",
+    "description": "With 80 PLUS Platinum certification, premium technology such as full bridge LLC and high-quality Japanese capacitors Straight Power 12 is the reliable pick for powerful systems of today and the ones to come.",
+    "price": 209,
+    "stock": 12,
+    "imgUrl": "https://www.bequiet.com/admin/ImageServer.php?ID=8415aa47535@be-quiet.net&omitPreview=true&width=600",
+    "categoryId": 1,
+    "authorId": 1,
+    "status": "Active"
+  },
+  {
+    "name": "Pure Power 12 550W",
+    "description": "Pure Power 12 M 550W is ATX 3.0 compliant and PCIe 5.0 compatible and offers peerless dependability with best-in-class features. Pure Power 12 M 550W offers the best combination of features with outstanding compatibility.",
+    "price": 95,
+    "stock": 2,
+    "imgUrl": "https://www.bequiet.com/admin/ImageServer.php?ID=0936aa45729@be-quiet.net&omitPreview=true&width=600",
+    "categoryId": 1,
+    "authorId": 1,
+    "status": "Active"
+  },
+  {
+    "name": "SFX L Power 600W",
+    "description": "For compact PC systems that perform beyond the ordinary, with an ideal combination of features, power, efficiency and reliability, choose SFX L Power 600W.",
+    "price": 128,
+    "stock": 8,
+    "imgUrl": "https://www.bequiet.com/admin/ImageServer.php?ID=df6e1a10872@be-quiet.net&omitPreview=true&width=600",
+    "categoryId": 1,
+    "authorId": 1,
+    "status": "Active"
+  },
+  {
+    "name": "Silent Wings Pro 4 PWM 140mm",
+    "description": "Silent Wings Pro 4 140mm PWM is the most progressive, performant and versatile fan by quiet!",
+    "price": 26,
+    "stock": 42,
+    "imgUrl": "https://www.bequiet.com/admin/ImageServer.php?ID=43722a43154@be-quiet.net&omitPreview=true&width=600",
+    "categoryId": 2,
+    "authorId": 1,
+    "status": "Active"
+  },
+  {
+    "name": "Light Wings 140mm PWM high-speed Triple-Pack",
+    "description": "3 Light Wings 140mm PWM high-speed offer impressive illumination for a vibrant unique look, strong performance and quiet operation with efficient cooling.",
+    "price": 85,
+    "stock": 10,
+    "imgUrl": "https://www.bequiet.com/admin/ImageServer.php?ID=9a853a39979@be-quiet.net&omitPreview=true&width=600",
+    "categoryId": 2,
+    "authorId": 1,
+    "status": "Active"
+  },
+  {
+    "name": "Pure Wings 2 120mm PWM",
+    "description": "Pure Wings 2 offer outstanding reliability and quiet operation at great price-for-performance ratio. They are the ultimate reason to put the well-known be quiet! silent cooling in your PC.",
+    "price": 11,
+    "stock": 30,
+    "imgUrl": "https://www.bequiet.com/admin/ImageServer.php?ID=82597a9498@be-quiet.net&omitPreview=true&width=600",
+    "categoryId": 2,
+    "authorId": 1,
+    "status": "Active"
+  },
+  {
+    "name": "Dark Base Pro 901",
+    "description": "Outstanding Versatility, Performance and Silence. Dark Base Pro 901 is the epitome of a flexible, yet user-friendly case.",
+    "price": 330,
+    "stock": 6,
+    "imgUrl": "https://www.bequiet.com/admin/ImageServer.php?ID=ac179a47440@be-quiet.net&omitPreview=true&width=600",
+    "categoryId": 3,
+    "authorId": 1,
+    "status": "Active"
+  },
+  {
+    "name": "Silent Base 802",
+    "description": "The Silent Base 802 series offers a variety second to none. With interchangeable mesh and noise absorbing panels, these cases are equally dedicated to super silent operation and maximum airflow.",
+    "price": 140,
+    "stock": 22,
+    "imgUrl": "https://www.bequiet.com/admin/ImageServer.php?ID=1918ba34431@be-quiet.net&omitPreview=true&width=600",
+    "categoryId": 3,
+    "authorId": 1,
+    "status": "Active"
+  },
+  {
+    "name": "Shadow Base 800 DX",
+    "description": "Shadow Base 800 DX Black is an airflow-optimized midi-tower with ARGB LEDs at the front that offers silent operation with enough space for extensive components such as graphics cards, 420mm radiators or E-ATX motherboards.",
+    "price": 185,
+    "stock": 4,
+    "imgUrl": "https://www.bequiet.com/admin/ImageServer.php?ID=45296a48943@be-quiet.net&omitPreview=true&width=600",
+    "categoryId": 3,
+    "authorId": 1,
+    "status": "Active"
+  },
+  {
+    "name": "Pure Base 600 Windows Orange",
+    "description": "Pure Base 600 Window offers a great deal of functionality and features for an attractive price.",
+    "price": 97,
+    "stock": 7,
+    "imgUrl": "https://www.bequiet.com/admin/ImageServer.php?ID=585e8a9805@be-quiet.net&omitPreview=true&width=600",
+    "categoryId": 3,
+    "authorId": 1,
+    "status": "Active"
+  },
+  {
+    "name": "Silent Loop 2 360",
+    "description": "Silent Loop 2 is the very high-performance and whisper-quiet all-in-one water cooling unit for sophisticated users with overclocked systems.",
+    "price": 175,
+    "stock": 8,
+    "imgUrl": "https://www.bequiet.com/admin/ImageServer.php?ID=8f1afa37019@be-quiet.net&omitPreview=true&width=600",
+    "categoryId": 4,
+    "authorId": 1,
+    "status": "Active"
+  },
+  {
+    "name": "Pure Loop 2 FX 360mm",
+    "description": "Pure Loop 2 FX 360mm is the impressively high-performing and silent All-in-One water cooling unit with impressive ARGB illumination for overclocked systems.",
+    "price": 155,
+    "stock": 4,
+    "imgUrl": "https://www.bequiet.com/admin/ImageServer.php?ID=3e968a43980@be-quiet.net&omitPreview=true&width=600",
+    "categoryId": 4,
+    "authorId": 1,
+    "status": "Active"
+  },
+  {
+    "name": "Pure Loop 2 FX 240mm",
+    "description": "Pure Loop 2 FX 240mm is the very high-performing and silent All-in-One water cooling unit with impressive ARGB illumination.",
+    "price": 128,
+    "stock": 4,
+    "imgUrl": "https://www.bequiet.com/admin/ImageServer.php?ID=87b95a43982@be-quiet.net&omitPreview=true&width=600",
+    "categoryId": 4,
+    "authorId": 1,
+    "status": "Active"
+  },
+  {
+    "name": "Dark Rock 4",
+    "description": "Dark Rock Pro 4 offers an immense cooling performance of 250W TDP and virtually inaudible operation. Excellent for overclocked systems and demanding workstations.",
+    "price": 74,
+    "stock": 16,
+    "imgUrl": "https://www.bequiet.com/admin/ImageServer.php?ID=2412aa15698@be-quiet.net&omitPreview=true&width=600",
+    "categoryId": 5,
+    "authorId": 1,
+    "status": "Active"
+  },
+  {
+    "name": "Shadow Rock 3",
+    "description": "The be quiet! Shadow Rock 3 offers impressive cooling and quiet operation. Perfect for performance beyond the standard for a good price.",
+    "price": 50,
+    "stock": 2,
+    "imgUrl": "https://www.bequiet.com/admin/ImageServer.php?ID=4f44fa29923@be-quiet.net&omitPreview=true&width=600",
+    "categoryId": 5,
+    "authorId": 1,
+    "status": "Active"
+  },
+  {
+    "name": "Pure Rock 2",
+    "description": "It provides an excellent price-to-performance ratio with 150W TDP cooling efficiency, four 6mm heat pipes, a Pure Wings 2 120mm PWM fan and convenient design for mounting from atop the motherboard.",
+    "price": 40,
+    "stock": 6,
+    "imgUrl": "https://www.bequiet.com/admin/ImageServer.php?ID=1b4c2a30624@be-quiet.net&omitPreview=true&width=600",
+    "categoryId": 5,
+    "authorId": 1,
+    "status": "Active"
+  },
+  {
+    "name": "Pure Rock LP",
+    "description": "Pure Rock LP fits into the tightest systems and is your CPU cooler of choice for ultra-compact Mini-ITX builds that require reliable cooling.",
+    "price": 50,
+    "stock": 13,
+    "imgUrl": "https://www.bequiet.com/admin/ImageServer.php?ID=f1749a44753@be-quiet.net&omitPreview=true&width=600",
+    "categoryId": 5,
+    "authorId": 1,
+    "status": "Active"
+  }
+]
